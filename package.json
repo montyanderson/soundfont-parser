@@ -1,0 +1,19 @@
+{
+  "name": "soundfont-parser",
+  "version": "0.1.0",
+  "description": "JS parser for SoundFont files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montyanderson/soundfont-parser.git"
+  },
+  "author": "Monty Anderson <montydev@protonmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/montyanderson/soundfont-parser/issues"
+  },
+  "homepage": "https://github.com/montyanderson/soundfont-parser#readme"
+}
