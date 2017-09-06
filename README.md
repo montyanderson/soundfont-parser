@@ -5,7 +5,7 @@ JS parser for SoundFont files.
 
 ``` javascript
 const fs = require("fs");
-const soundfontParser = require("./");
+const soundfontParser = require("soundfont-parser");
 
 const file = fs.readFileSync(`${__dirname}/soundfont.sfz`, "utf8");
 
